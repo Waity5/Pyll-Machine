@@ -15,4 +15,4 @@ shift + \<zoom> to change the speed of the simulation
 
 ctrl + c and ctrl + v to copy and paste the entire board in V1 format
 
-1 to 0 to elect blocks, q and e to rotate
+1 to 0 to select blocks, q and e to rotate
