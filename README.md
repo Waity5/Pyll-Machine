@@ -1,6 +1,6 @@
 # Pyll-Machine
 Cell Machine but in python with an infinite grid. Compatalbe with the Mystic Mod
-REQUIRES PYGAME
+(REQUIRES PYGAME)
 
 <zoom> is the mouse wheel or (, and .)
 <click> is left mouse button or space (because my left mouse button is unreliable)
